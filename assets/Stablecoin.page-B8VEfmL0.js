@@ -1,0 +1,1 @@
+import{_ as e,b as o,o as c}from"./index-DsSu0Rud.js";const a={},s={class:"dashboard"};function t(_,r){return c(),o("div",s,"hello world")}const n=e(a,[["render",t],["__scopeId","data-v-8bf3db8d"]]);export{n as default};
