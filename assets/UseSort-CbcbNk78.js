@@ -1,0 +1,1 @@
+import{ae as t,c as l}from"./index--6aQy66t.js";function d(e,s){const o=t(e),r=t(s??"desc"),n=(c,a)=>{o.value=c,r.value=a},u=l(()=>({column:o.value,order:r.value}));return{sortColumn:o,sortOrder:r,sorting:u,onSort:n}}export{d as u};
