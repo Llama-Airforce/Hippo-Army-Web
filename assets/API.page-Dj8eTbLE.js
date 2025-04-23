@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Swagger-BLgEpjUh.js","assets/index--6aQy66t.js","assets/index-Du3wBTy_.css","assets/Swagger-DHh7ZZAh.css"])))=>i.map(i=>d[i]);
-import{d as o,j as a,o as n,u as s,k as t,l as p}from"./index--6aQy66t.js";const d=o({__name:"API.page",setup(r){const e=t(()=>p(()=>import("./Swagger-BLgEpjUh.js"),__vite__mapDeps([0,1,2,3])));return(_,c)=>(n(),a(s(e),{url:"https://api.hippo.army/feeds-docs/openapi.json"}))}});export{d as default};

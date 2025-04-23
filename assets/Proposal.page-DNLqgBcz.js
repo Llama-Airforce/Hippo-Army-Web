@@ -1,0 +1,1 @@
+import{_ as o,b as e,o as s}from"./index-DAmMJpTU.js";const c={},r={class:"dashboard"};function a(t,_){return s(),e("div",r,"work in progress")}const d=o(c,[["render",a],["__scopeId","data-v-73c38762"]]);export{d as default};

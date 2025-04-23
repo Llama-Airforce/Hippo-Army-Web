@@ -1,0 +1,1 @@
+import{d as t,b as a,o as n,f as s,g as o,_ as r}from"./index-DAmMJpTU.js";const _={class:"header"},c=t({__name:"DashboardHeader",props:{title:{},description:{}},setup(p){return(e,i)=>(n(),a("div",_,[s("h1",null,o(e.title),1),s("p",null,o(e.description),1)]))}}),l=r(c,[["__scopeId","data-v-9c232c11"]]);export{l as _};
