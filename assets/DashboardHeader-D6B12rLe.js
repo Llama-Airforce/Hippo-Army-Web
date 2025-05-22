@@ -1,1 +1,0 @@
-import{d as t,j as a,o as n,f as s,m as o,l as r}from"./index-2M4OtfHB.js";const c={class:"header"},p=t({__name:"DashboardHeader",props:{title:{},description:{}},setup(_){return(e,i)=>(n(),a("div",c,[s("h1",null,o(e.title),1),s("p",null,o(e.description),1)]))}}),d=r(p,[["__scopeId","data-v-9c232c11"]]);export{d as _};
